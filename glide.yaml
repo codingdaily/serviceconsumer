@@ -1,0 +1,10 @@
+package: bitbucket.org/zkrhm-fdn/microconsumer
+import:
+- package: google.golang.org/grpc
+  version: ^1.15.0
+- package: golang.org/x/net
+  subpackages:
+  - context
+- package: google.golang.org/genproto
+  subpackages:
+  - googleapis/rpc/status
