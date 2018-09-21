@@ -1,3 +1,3 @@
 # MICROCONSUMER.
 
-example for protobuf consumer on golang. works nicely with microsvc-starter project.
+example for protobuf consumer on golang. works nicely with fdnservice project.
